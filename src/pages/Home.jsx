@@ -1,9 +1,12 @@
+import Product from "../component/product";
+import ProductsContainer from "../component/ProductsContainer";
 
 
 const Home = () => {
     return (
-        <div className="border-2 border-blue-600 min-h-screen">
-            This is home page
+        <div className=" min-h-screen">
+      <Product></Product>
+      <ProductsContainer></ProductsContainer>
         </div>
     );
 };

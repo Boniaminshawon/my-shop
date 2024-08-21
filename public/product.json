@@ -1,0 +1,362 @@
+[
+    {
+        "productName": "Smartphone Pro Max",
+        "productImage": "https://i.ibb.co/fMsrcCq/61-Bn3-PUKfh-L-removebg-preview.png",
+        "description": "A high-end smartphone with a 6.7-inch OLED display, 256GB storage, and a 48MP camera.",
+        "price": 999.99,
+        "category": "Smartphones",
+        "ratings": 4.8,
+        "creationDate": "2024-08-01T10:15:30"
+    },
+    {
+        "productName": "Bluetooth Headphones XL",
+        "productImage": "https://i.ibb.co/YBjd1mX/download.jpg",
+        "description": "Over-ear Bluetooth headphones with noise cancellation and 20-hour battery life.",
+        "price": 199.99,
+        "category": "Headphones",
+        "ratings": 4.6,
+        "creationDate": "2024-08-01T11:20:45"
+    },
+    {
+        "productName": "4K Smart TV 55\"",
+        "productImage": "https://i.ibb.co/ryWrBYR/samsung-65au7700-2-1-1.jpg",
+        "description": "55-inch 4K UHD Smart TV with HDR and built-in streaming apps.",
+        "price": 549.99,
+        "category": "Televisions",
+        "ratings": 4.7,
+        "creationDate": "2024-08-02T09:00:00"
+    },
+    {
+        "productName": "Wireless Gaming Mouse",
+        "productImage": "https://i.ibb.co/0YYB8QN/61-MJXznb-Ah-S-AC-SL1000.jpg",
+        "description": "Ergonomic wireless gaming mouse with customizable buttons and RGB lighting.",
+        "price": 79.99,
+        "category": "Gaming Accessories",
+        "ratings": 4.5,
+        "creationDate": "2024-08-02T10:30:20"
+    },
+    {
+        "productName": "Portable Bluetooth Speaker",
+        "productImage": "https://i.ibb.co/9hFvBSr/tronsmart-t7-mini-portable-bluetooth-speaker.jpg",
+        "description": "Compact Bluetooth speaker with powerful bass and 10-hour battery life.",
+        "price": 49.99,
+        "category": "Speakers",
+        "ratings": 4.3,
+        "creationDate": "2024-08-02T12:45:55"
+    },
+    {
+        "productName": "Smartwatch Series 7",
+        "productImage": "https://i.ibb.co/BTCyCPz/4125-96156.jpg",
+        "description": "Latest smartwatch with fitness tracking, heart rate monitoring, and GPS.",
+        "price": 299.99,
+        "category": "Wearables",
+        "ratings": 4.9,
+        "creationDate": "2024-08-03T08:10:10"
+    },
+    {
+        "productName": "Laptop Pro 15\"",
+        "productImage": "https://i.ibb.co/SfcpFB0/Asus-Vivobook-Pro-15-Price-in-BD-1.webp",
+        "description": "Powerful 15-inch laptop with 16GB RAM, 512GB SSD, and Intel i7 processor.",
+        "price": 1499.99,
+        "category": "Laptops",
+        "ratings": 4.8,
+        "creationDate": "2024-08-03T09:25:35"
+    },
+    {
+        "productName": "USB-C Hub 6-in-1",
+        "productImage": "https://i.ibb.co/0XcKqtK/COTECi-6-in-1-USB-C-HUB-Multiport-Adapater-a-7253.jpg",
+        "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader.",
+        "price": 39.99,
+        "category": "Accessories",
+        "ratings": 4.4,
+        "creationDate": "2024-08-03T11:50:25"
+    },
+    {
+        "productName": "Wireless Earbuds Pro",
+        "productImage": "https://i.ibb.co/FHRTcTV/Sound-PEATS-Mini-Pro-Hybrid-Active-Noise-Cancelling-Wireless-Earbuds-QCC3040-1.jpg",
+        "description": "True wireless earbuds with active noise cancellation and 24-hour battery life.",
+        "price": 179.99,
+        "category": "Earbuds",
+        "ratings": 4.7,
+        "creationDate": "2024-08-04T08:40:40"
+    },
+    {
+        "productName": "Gaming Monitor 27\"",
+        "productImage": "https://i.ibb.co/DYPK0Tc/27-GL650-F-B-Ultra-Gear-Gaming-Monitors-D-01-v1.jpg",
+        "description": "27-inch gaming monitor with 144Hz refresh rate and 1ms response time.",
+        "price": 329.99,
+        "category": "Monitors",
+        "ratings": 4.6,
+        "creationDate": "2024-08-04T10:00:00"
+    },
+    {
+        "productName": "Smart Home Security Camera",
+        "productImage": "https://i.ibb.co/d6vJ35g/59398f2edc0f757fb82e120cb44233ed.jpg",
+        "description": "1080p HD smart security camera with night vision and motion detection.",
+        "price": 99.99,
+        "category": "Home Security",
+        "ratings": 4.5,
+        "creationDate": "2024-08-04T12:15:15"
+    },
+    {
+        "productName": "Wireless Charger Stand",
+        "productImage": "https://i.ibb.co/D7YRnWj/UGREEN-15-W-Wireless-Charger-Stand7.jpg",
+        "description": "Fast wireless charging stand compatible with all Qi-enabled devices.",
+        "price": 29.99,
+        "category": "Chargers",
+        "ratings": 4.4,
+        "creationDate": "2024-08-05T08:55:25"
+    },
+    {
+        "productName": "Portable SSD 1TB",
+        "productImage": "https://i.ibb.co/26N306p/sandisk-1tb-usb-32-gen-2-type-c-portable-ssd-11638360251.webp",
+        "description": "Ultra-fast portable SSD with 1TB storage capacity and USB-C connectivity.",
+        "price": 149.99,
+        "category": "Storage",
+        "ratings": 4.7,
+        "creationDate": "2024-08-05T10:30:40"
+    },
+    {
+        "productName": "Smart Thermostat",
+        "productImage": "https://i.ibb.co/jgm3rqx/smartthermostats-2048px-3105.jpg",
+        "description": "Smart thermostat with Wi-Fi control and energy-saving features.",
+        "price": 199.99,
+        "category": "Home Automation",
+        "ratings": 4.6,
+        "creationDate": "2024-08-05T11:45:55"
+    },
+    {
+        "productName": "Noise-Cancelling Headphones",
+        "productImage": "https://i.ibb.co/w7DCFXL/noise-cancelling-headphone-2048px-0876.jpg",
+        "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+        "price": 249.99,
+        "category": "Headphones",
+        "ratings": 4.8,
+        "creationDate": "2024-08-06T08:15:10"
+    },
+    {
+        "productName": "Smart Speaker Mini",
+        "productImage": "https://i.ibb.co/2ZJ8r0p/1525-22360.jpg",
+        "description": "Compact smart speaker with voice assistant and multi-room audio.",
+        "price": 49.99,
+        "category": "Smart Home",
+        "ratings": 4.3,
+        "creationDate": "2024-08-06T09:30:30"
+    },
+    {
+        "productName": "Action Camera 4K",
+        "productImage": "https://i.ibb.co/CzhF18f/original-eken-h9-h9r-4k-25fps-wifi-action-bd.jpg",
+        "description": "Waterproof action camera with 4K video recording and wide-angle lens.",
+        "price": 199.99,
+        "category": "Cameras",
+        "ratings": 4.7,
+        "creationDate": "2024-08-06T10:45:50"
+    },
+    {
+        "productName": "Gaming Keyboard RGB",
+        "productImage": "https://i.ibb.co/RPXrMc1/bea9e1fda0bdda2c79b82f139f0ddf65.jpg",
+        "description": "Mechanical gaming keyboard with customizable RGB lighting and anti-ghosting keys.",
+        "price": 99.99,
+        "category": "Gaming Accessories",
+        "ratings": 4.6,
+        "creationDate": "2024-08-07T08:05:15"
+    },
+    {
+        "productName": "Smart Doorbell Camera",
+        "productImage": "https://i.ibb.co/nf1cPbG/smart-doorbell-camera-2048px-0048.jpg",
+        "description": "Smart doorbell with 1080p HD video, two-way audio, and motion alerts.",
+        "price": 149.99,
+        "category": "Home Security",
+        "ratings": 4.5,
+        "creationDate": "2024-08-07T09:20:35"
+    },
+    {
+        "productName": "Wireless Charging Pad",
+        "productImage": "https://i.ibb.co/YBxBb0V/anker-315-wireless-charger.webp",
+        "description": "Sleek wireless charging pad for Qi-enabled devices, with fast charging support.",
+        "price": 24.99,
+        "category": "Chargers",
+        "ratings": 4.4,
+        "creationDate": "2024-08-07T10:35:50"
+    },
+    {
+        "productName": "Portable Power Bank 20,000mAh",
+        "productImage": "https://i.ibb.co/09xkBzs/sg-11134207-7rbk3-lmmyuv4umof798.webp",
+        "description": "High-capacity power bank with 20,000mAh and fast charging for multiple devices.",
+        "price": 49.99,
+        "category": "Power Banks",
+        "ratings": 4.7,
+        "creationDate": "2024-08-08T08:50:25"
+    },
+    {
+        "productName": "Smart Light Bulb 4-Pack",
+        "productImage": "https://i.ibb.co/bHWZZ5w/Overview-4-pack-normal-20230508020602v.jpg",
+        "description": "Wi-Fi smart LED light bulbs with customizable colors and voice control.",
+        "price": 39.99,
+        "category": "Smart Home",
+        "ratings": 4.5,
+        "creationDate": "2024-08-08T10:10:40"
+    },
+    {
+        "productName": "VR Headset",
+        "productImage": "https://i.ibb.co/L98KTzK/Meta-Quest-2-VR.jpg",
+        "description": "Advanced VR headset with high-resolution display and immersive 3D audio.",
+        "price": 499.99,
+        "category": "Virtual Reality",
+        "ratings": 4.8,
+        "creationDate": "2024-08-08T11:25:55"
+    },
+    {
+        "productName": "Home Wi-Fi Mesh System",
+        "productImage": "https://i.ibb.co/xXbhVmR/wifimeshnetworking-2048px-1160.webp",
+        "description": "Tri-band mesh Wi-Fi system for whole-home coverage and seamless connectivity.",
+        "price": 299.99,
+        "category": "Networking",
+        "ratings": 4.7,
+        "creationDate": "2024-08-09T08:20:10"
+    },
+    {
+        "productName": "Bluetooth Car Adapter",
+        "productImage": "https://i.ibb.co/xCVych6/1632563134-T11-Bluetooth-FM-Transmitter-Car-Charger-Car-Kit-Adapter-13102016-03-p.jpg",
+        "description": "Bluetooth adapter for car stereo with hands-free calling and music streaming.",
+        "price": 29.99,
+        "category": "Car Accessories",
+        "ratings": 4.3,
+        "creationDate": "2024-08-09T09:35:30"
+    },
+    {
+        "productName": "Smart Plug 2-Pack",
+        "productImage": "https://i.ibb.co/n6WBsST/61isn-NC6mt-L.jpg",
+        "description": "Wi-Fi smart plugs for voice-controlled power on/off and scheduling.",
+        "price": 24.99,
+        "category": "Smart Home",
+        "ratings": 4.4,
+        "creationDate": "2024-08-09T10:50:50"
+    },
+    {
+        "productName": "Digital Photo Frame 10\"",
+        "productImage": "https://i.ibb.co/Yp4yQ0V/Skylight-Frame-Wi-Fi-Digital-Picture-Frame.jpg",
+        "description": "10-inch digital photo frame with Wi-Fi and cloud photo sharing.",
+        "price": 149.99,
+        "category": "Photo Frames",
+        "ratings": 4.6,
+        "creationDate": "2024-08-10T08:35:15"
+    },
+    {
+        "productName": "Smart Air Purifier",
+        "productImage": "https://i.ibb.co/m4gbPNK/Xiaomi-Air-Purifier-4.jpg",
+        "description": "HEPA air purifier with smart control and real-time air quality monitoring.",
+        "price": 249.99,
+        "category": "Home Appliances",
+        "ratings": 4.7,
+        "creationDate": "2024-08-10T09:50:35"
+    },
+    {
+        "productName": "Bluetooth Tracker 4-Pack",
+        "productImage": "https://i.ibb.co/x5b8hfV/544709-Product-0-I-637940738005985237.webp",
+        "description": "Compact Bluetooth trackers for finding lost items with app control.",
+        "price": 59.99,
+        "category": "Trackers",
+        "ratings": 4.4,
+        "creationDate": "2024-08-10T11:05:50"
+    },
+    {
+        "productName": "Smart Coffee Maker",
+        "productImage": "https://i.ibb.co/rwHgMhK/grinder-view-img1.jpg",
+        "description": "Wi-Fi enabled coffee maker with voice control and customizable brew settings.",
+        "price": 149.99,
+        "category": "Home Appliances",
+        "ratings": 4.6,
+        "creationDate": "2024-08-11T08:45:25"
+    },
+    {
+        "productName": "Smart Robot Vacuum",
+        "productImage": "https://i.ibb.co/Kqdx3c6/image-1200x1200.jpg",
+        "description": "Robot vacuum with smart navigation, voice control, and automatic charging.",
+        "price": 399.99,
+        "category": "Home Appliances",
+        "ratings": 4.8,
+        "creationDate": "2024-08-11T10:00:40"
+    },
+    {
+        "productName": "Bluetooth Shower Speaker",
+        "productImage": "https://i.ibb.co/L6rcD5b/1-shower-power-hero.webp",
+        "description": "Waterproof Bluetooth speaker for use in the shower with suction cup mount.",
+        "price": 29.99,
+        "category": "Speakers",
+        "ratings": 4.3,
+        "creationDate": "2024-08-11T11:15:55"
+    },
+    {
+        "productName": "Digital Voice Recorder",
+        "productImage": "https://i.ibb.co/9wdtPCn/ux570-1-500x500.jpg",
+        "description": "Portable digital voice recorder with noise reduction and 16GB storage.",
+        "price": 59.99,
+        "category": "Audio",
+        "ratings": 4.5,
+        "creationDate": "2024-08-12T08:25:10"
+    },
+    {
+        "productName": "Smart Remote Control",
+        "productImage": "https://i.ibb.co/GP8DNyH/2023-smart-tv-one-remote-f01-kvmo.jpg",
+        "description": "Universal smart remote control with voice command and app support.",
+        "price": 79.99,
+        "category": "Smart Home",
+        "ratings": 4.4,
+        "creationDate": "2024-08-12T09:40:30"
+    },
+    {
+        "productName": "4K Streaming Stick",
+        "productImage": "https://i.ibb.co/xMDcXcz/roku-streaming-stick-4k-cnet-review-2021-058.webp",
+        "description": "Compact 4K streaming stick with voice control and access to all major streaming apps.",
+        "price": 49.99,
+        "category": "Media Players",
+        "ratings": 4.7,
+        "creationDate": "2024-08-12T10:55:50"
+    },
+    {
+        "productName": "Smart Indoor Garden",
+        "productImage": "https://i.ibb.co/d47J6Y7/Aqua-Grow-05.webp",
+        "description": "Self-watering smart garden for growing herbs and vegetables indoors.",
+        "price": 129.99,
+        "category": "Smart Home",
+        "ratings": 4.6,
+        "creationDate": "2024-08-13T08:10:15"
+    },
+    {
+        "productName": "Digital Alarm Clock",
+        "productImage": "https://i.ibb.co/w7LF6WQ/f35cac0b0414078b4dfec9045fbc0171.jpg",
+        "description": "Digital alarm clock with large LED display, dual alarms, and USB charging.",
+        "price": 29.99,
+        "category": "Clocks",
+        "ratings": 4.3,
+        "creationDate": "2024-08-13T09:25:35"
+    },
+    {
+        "productName": "Wireless HDMI Adapter",
+        "productImage": "https://i.ibb.co/6sh4fRy/517-Kd-Z6dxe-L-AC-SL1500.jpg",
+        "description": "Wireless HDMI adapter for streaming content from your device to the TV.",
+        "price": 79.99,
+        "category": "Accessories",
+        "ratings": 4.5,
+        "creationDate": "2024-08-13T10:40:50"
+    },
+    {
+        "productName": "Bluetooth Keyboard",
+        "productImage": "https://i.ibb.co/VJFPWHZ/bluetoothkeyboards-2048px-9845.webp",
+        "description": "Slim Bluetooth keyboard with multi-device pairing and long battery life.",
+        "price": 59.99,
+        "category": "Keyboards",
+        "ratings": 4.4,
+        "creationDate": "2024-08-14T08:20:25"
+    },
+    {
+        "productName": "Portable Projector",
+        "productImage": "https://i.ibb.co/ph5Vkkh/Jm4w2-Prak-ZSGnu-Fj-Xvr-AA8-1200-80.jpg",
+        "description": "Compact portable projector with 1080p resolution and wireless streaming.",
+        "price": 299.99,
+        "category": "Projectors",
+        "ratings": 4.7,
+        "creationDate": "2024-08-14T09:35:40"
+    }
+]
